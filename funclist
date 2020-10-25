@@ -1,0 +1,13 @@
+i1_resetIRCounters: CODE, 1544 0 24
+_putch: CODE, 1595 0 12
+_resetIRCounters: CODE, 1520 0 24
+_sleep_microprocessor_sleep: CODE, 1625 0 2
+_initializeCapturePin1: CODE, 1568 0 14
+_main: CODE, 943 0 279
+___lwdiv: CODE, 1368 0 82
+_handlerRoutine: CODE, 156 0 461
+_send_panasonic: CODE, 1222 0 146
+_printf: CODE, 617 0 326
+___lwmod: CODE, 1450 0 70
+_startTimer1: CODE, 1615 0 7
+Total: 1447
